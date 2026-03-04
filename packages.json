@@ -1,0 +1,10 @@
+[
+    {
+        "package": "martelosim",
+        "url": "https://forge.inrae.fr/lessem/rpackages/martelosim"
+    },
+    {
+		"package": "matreex",
+		"url": "https://forge.inrae.fr/lessem/rpackages/matreex"
+    }
+]
