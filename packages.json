@@ -2,6 +2,7 @@
     {
         "package": "martelosim",
         "url": "https://forge.inrae.fr/lessem/rpackages/martelosim"
+		"branch": "dev"
     },
     {
 		"package": "matreex",
